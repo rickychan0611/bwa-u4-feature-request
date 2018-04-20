@@ -1,0 +1,17 @@
+Feature Request: 
+Music Player and play button
+
+Apirl 10th 2018
+
+OBJECTIVE
+To give users the ability to play all of their Spotify musics at the playlists 
+BACKGROUND 
+Currently, Jammming supports the ability to create new playlist. However, it would be boring if you can¡¦t actually jam the music. 
+This feature accomplishes the following:
+¡´ Displays a play/pause button next to each track.
+¡´ Users could play the music immediately by pressing the play button
+¡´ A main music player will be displayed at the bottom of the page with full music player functionalities such as Play/Pause button, next/previous button and Timeline.
+Retrieve and play music
+Set up a function that will play music. Modify the track component. Render a play button next to the name of the track. Add a music player player at the button of the page with The HTML <audio> Element. Retrieve the track by its uri. Onclick, run playAudio(). 
+
+
